@@ -58,21 +58,21 @@ em até 30 segundos.
 
 ## Roteiros prontos
 
-São os pedidos mais comuns, prontos para usar. No app do Claude, ficam no **+** › **Naper Creator**. No Claude Code,
-viram comandos:
+São os pedidos mais comuns, prontos para usar. No Claude Code, digite `/` e o nome do roteiro: ele aparece como
+`…:como_estou (MCP)`, e o que vier depois do nome vai junto (ex.: `produtos_para_divulgar beleza 5`).
 
-| Roteiro | No Claude Code |
+| Roteiro | O que faz |
 |---|---|
-| Começar no Naper Creator | `/mcp__naper__primeiros_passos` |
-| Como estou? | `/mcp__naper__como_estou` |
-| Analisar meu perfil | `/mcp__naper__analisar_perfil` |
-| Planejar minha semana | `/mcp__naper__planejar_semana` |
-| Achar produtos para divulgar | `/mcp__naper__produtos_para_divulgar` |
-| Revisar meus grupos | `/mcp__naper__revisar_grupos` |
-| Configurar o EU QUERO | `/mcp__naper__configurar_eu_quero` |
-| Criar um post | `/mcp__naper__criar_post` |
+| `primeiros_passos` | O que já dá para fazer, o que falta ligar e o primeiro resultado de hoje |
+| `como_estou` | Vendas e comissão, meta, redes, grupos e o que pede atenção agora |
+| `analisar_perfil` | O que dá alcance, o que vende e o que repetir no TikTok e no Instagram |
+| `planejar_semana` | A agenda dos próximos 7 dias com os seus rascunhos e os produtos certos |
+| `produtos_para_divulgar` | Os melhores produtos para divulgar agora, com o porquê |
+| `revisar_grupos` | O diagnóstico dos grupos de WhatsApp e os ajustes que trazem clique e venda |
+| `configurar_eu_quero` | Em quais posts ligar o EU QUERO, com a palavra e a mensagem |
+| `criar_post` | Do produto ao post agendado |
 
-Também dá para pedir com as suas palavras. O Claude começa pelo panorama da conta e acha o resto.
+Em qualquer Claude também dá para pedir com as suas palavras: o Claude começa pelo panorama da conta e acha o resto.
 
 ## O que o Claude faz
 

@@ -23,7 +23,8 @@ Shopee), grupos de ofertas no WhatsApp, EU QUERO, ganhos de todos os canais e o 
 3. Diga quais redes conectar primeiro, no app, e por quê.
 4. Entregue um resultado no mesmo dia: 5 produtos do Radar para postar, o plano da semana ou o grupo de ofertas montado.
 
-Os roteiros prontos (`/mcp__naper__…`) fazem cada um desses trabalhos.
+Os roteiros prontos do Naper (digite `/` e procure `primeiros_passos`, `como_estou`, `produtos_para_divulgar`…) fazem
+cada um desses trabalhos.
 
 ## Regras
 
