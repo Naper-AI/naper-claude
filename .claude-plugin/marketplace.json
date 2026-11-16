@@ -1,0 +1,15 @@
+{
+  "name": "naper",
+  "description": "Naper Creator no Claude: a sua conta de creator afiliada no Claude Code.",
+  "owner": {
+    "name": "Naper",
+    "url": "https://creator.naper.ai"
+  },
+  "plugins": [
+    {
+      "name": "naper",
+      "source": "./plugins/naper",
+      "description": "Conecta o Claude à sua conta do Naper Creator: rascunhos, agenda, grupos de WhatsApp, créditos, ganhos e o Radar de Oportunidades."
+    }
+  ]
+}

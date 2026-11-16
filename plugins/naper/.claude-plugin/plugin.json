@@ -1,0 +1,13 @@
+{
+  "name": "naper",
+  "version": "1.0.0",
+  "description": "Conecta o Claude à sua conta do Naper Creator: rascunhos, agenda, grupos de WhatsApp, créditos, ganhos e o Radar de Oportunidades.",
+  "author": {
+    "name": "Naper",
+    "url": "https://creator.naper.ai"
+  },
+  "homepage": "https://creator.naper.ai/?utm_source=github&utm_medium=plugin&utm_campaign=claude",
+  "repository": "https://github.com/Naper-AI/naper-claude",
+  "license": "MIT",
+  "keywords": ["naper", "creator", "afiliados", "tiktok", "instagram", "whatsapp", "mcp"]
+}
