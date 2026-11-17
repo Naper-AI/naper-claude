@@ -56,8 +56,8 @@ Depois rode `/mcp`, escolha **naper** e **Authenticate**.
 2. Entre com o seu número de WhatsApp (chega um código). Sem conta, ela é criada aqui.
 3. Escolha as contas e o que o Claude pode fazer, e toque em **Autorizar**.
 
-Nenhuma senha nem chave passa pelo terminal ou pela conversa: as das contas de afiliada você põe no app, e o login de
-cada rede é na página da própria rede. Para ver ou desconectar: no app, **Conta › Claude e API**. Desconectar vale
+Nenhuma senha nem chave passa pelo terminal ou pela conversa: as contas de afiliada (a tag, a senha, a chave) você põe
+no app, com o Claude guiando, e o login de cada rede é na página da própria rede. Para ver ou desconectar: no app, **Conta › Claude e API**. Desconectar vale
 em até 30 segundos.
 
 ## Roteiros prontos
@@ -92,7 +92,7 @@ Em qualquer Claude também dá para pedir com as suas palavras: o Claude começa
 | Meta | A meta do mês: o realizado, a projeção, a sugestão do app e definir a sua |
 | Produtos | Radar da semana por categoria, ranking das creators e das lojas, achados do dia, busca, ficha e histórico de preço |
 | Posts | Rascunhos, produto vinculado (direto do Radar), legenda pela IA, a DM do EU QUERO; publicar e agendar no Instagram (com o EU QUERO), no TikTok (pela notificação), no Facebook e no Pinterest, com o grupo junto |
-| Conta | As redes conectadas e o link para conectar cada uma, as contas de afiliada e a tag da Amazon, o que falta configurar |
+| Conta | As redes conectadas e o link para conectar cada uma, o estado das contas de afiliada (e onde configurar no app), o que falta configurar, as notificações e o perfil |
 | Grupos | Buscar ofertas novas e montar a agenda com você, aprovar, a fila do dia (pular, trocar, juntar, adiar, mandar agora), criar e ajustar grupos, números |
 | Bio | A vitrine e as coleções da sua página: pôr produto, subir, tirar, agrupar, a bio e os links |
 | EU QUERO | Ver e configurar, ligar por post, as respostas e os cliques |
