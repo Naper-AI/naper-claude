@@ -98,7 +98,8 @@ Em qualquer Claude também dá para pedir com as suas palavras: o Claude começa
 | EU QUERO | Ver e configurar, ligar por post, as respostas e os cliques |
 | Agências | Várias contas num acesso: `contas_listar` e a conta em cada pedido |
 
-Cada resposta traz o link da tela no app, para você conferir com foto e detalhes.
+Cada resposta traz o link da tela no app, para você conferir com foto e detalhes. No app do Claude (web, Desktop e
+celular), o panorama, os produtos, o post antes de agendar e o teste grátis aparecem como cartões, no visual do Naper.
 
 ## Segurança e limites
 
